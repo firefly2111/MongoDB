@@ -1,1 +1,65 @@
+#wrapper{
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 50px;
+  float: left;
+  font-family: sans-serif;
+}
+#buttons{
+  margin-bottom: 10px;
+}
+#input{
+  width: 100%;
+  border-radius: 10px;
+}
 
+#result{
+  width:100%;
+  margin-top: 20px;
+  height: auto;
+  float: left;
+}
+
+.movies{
+  float: left;
+  margin-left: 50px;
+  margin-top: 50px;
+  width: 40%;
+  text-align: center;
+  border-radius: 10px;
+  transition: 0.5s;
+}
+
+.movies img{
+  height: 500px;
+}
+
+.vnback{
+  display: none;
+}
+
+.vnresult{
+  display: none;
+}
+
+.vtback{
+  display: block;
+}
+
+.vtresult{
+  display: block;
+}
+
+.vnover{
+  display: none;
+}
+.vtover{
+  display: block;
+}
+
+
+#but{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+}
